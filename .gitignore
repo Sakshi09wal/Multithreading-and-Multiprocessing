@@ -1,0 +1,12 @@
+# sys files
+.DS_Store
+
+# py cache files
+.ipynb_checkpoints
+__pycache__
+
+# hide your imgur client id
+
+
+# hide your data
+images/
